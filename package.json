@@ -1,0 +1,19 @@
+{
+  "name": "enviconnect",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite dev --host 0.0.0.0", "build": "vite build", "start": "vite preview" },
+  "dependencies": {
+    "@tanstack/react-router": "^1.170.0",
+    "@tanstack/react-start": "^1.168.60",
+    "@tanstack/router-plugin": "^1.168.0",
+    "@tailwindcss/vite": "^4.3.0",
+    "@vitejs/plugin-react": "^5.2.0",
+    "lucide-react": "^0.510.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwindcss": "^4.3.0",
+    "vite": "^8.2.0"
+  },
+  "devDependencies": { "@types/react": "^19.2.0", "@types/react-dom": "^19.2.0", "typescript": "^5.7.0" }
+}

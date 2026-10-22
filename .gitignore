@@ -4,7 +4,14 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Local environment files (if a backend is added later)
+# Dependencies and build artifacts
+node_modules/
+.vinxi/
+.tanstack/
+.output/
+dist/
+
+# Local environment files
 .env
 .env.*
 !.env.example
